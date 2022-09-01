@@ -19,8 +19,7 @@ Click on the link 'https://serhiyzv.github.io/challenge_week_one/'.
 
 ## Usage
 
-Opent the website and compare with the screenshot
+Opent the website and verify the struction of the page.
 
-    ```md
-    [alt challenge#1] 
+    
    
