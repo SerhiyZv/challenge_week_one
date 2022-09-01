@@ -16,7 +16,7 @@ body {
 }
 
 .header h1 {
-    display: flex;
+    display: inline-block;
     font-size: 48px;
 }
 
@@ -27,7 +27,7 @@ body {
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
-    flex: flex-end;
+    float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
@@ -37,7 +37,7 @@ body {
 }
 
 .header nav ul li {
-    display: inline-flex;
+    display: inline-block;
     margin-left: 25px;
 }
 
